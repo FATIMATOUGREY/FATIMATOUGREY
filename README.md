@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FATIMATOUGREY
 - 👀 I’m interested in school
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on this tool
 - 📫 How to reach me with my email : fatimatoudiallo230@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: HAPPY
 - ⚡ Fun fact: ...
 
 <!---
